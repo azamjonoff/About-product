@@ -1,0 +1,13 @@
+.overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+.wrapper {
+  max-width: 1200px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  flex-direction: column;
+}
